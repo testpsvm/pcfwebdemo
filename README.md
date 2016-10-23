@@ -14,7 +14,7 @@ Prerequisite : you must have a pivotal account
 
 - `cf push -p pcfwebdemo.war`
 
-Remark : you may have to add `-m 64M` on test environment if you don't have enough memory and `-k 256M` for disk space
+Remark : You may have to add `-m 64M` on test environment if you don't have enough memory and `-k 256M` for disk space
 
 
 Test the application [pcfwebdemo](http://pcfwebdemo.cfapps.io)
